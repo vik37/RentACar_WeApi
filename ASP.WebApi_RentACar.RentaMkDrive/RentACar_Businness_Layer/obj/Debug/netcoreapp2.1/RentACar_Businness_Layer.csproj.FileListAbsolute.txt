@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\bin\Debug\netcoreapp2.1\RentACar_Businness_Layer.deps.json
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\bin\Debug\netcoreapp2.1\RentACar_Businness_Layer.dll
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\bin\Debug\netcoreapp2.1\RentACar_Businness_Layer.pdb
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\obj\Debug\netcoreapp2.1\RentACar_Businness_Layer.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\obj\Debug\netcoreapp2.1\RentACar_Businness_Layer.AssemblyInfo.cs
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\obj\Debug\netcoreapp2.1\RentACar_Businness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\obj\Debug\netcoreapp2.1\RentACar_Businness_Layer.dll
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\obj\Debug\netcoreapp2.1\RentACar_Businness_Layer.pdb
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\bin\Debug\netcoreapp2.1\RentACar_DataAccess_Layer.dll
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\bin\Debug\netcoreapp2.1\RentACar_DataTransfer_Layer.dll
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\bin\Debug\netcoreapp2.1\RentACar_Domain_Layer.dll
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\bin\Debug\netcoreapp2.1\RentACar_DataAccess_Layer.pdb
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\bin\Debug\netcoreapp2.1\RentACar_DataTransfer_Layer.pdb
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\bin\Debug\netcoreapp2.1\RentACar_Domain_Layer.pdb
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\obj\Debug\netcoreapp2.1\RentACar_Businness_Layer.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\WebApi\Exercise\ASP.WebApi_RentACar.RentaMkDrive\RentACar_Businness_Layer\obj\Debug\netcoreapp2.1\RentACar_Businness_Layer.csproj.CopyComplete

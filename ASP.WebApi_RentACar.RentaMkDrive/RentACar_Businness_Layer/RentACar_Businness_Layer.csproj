@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RentACar_DataAccess_Layer\RentACar_DataAccess_Layer.csproj" />
+    <ProjectReference Include="..\RentACar_DataTransfer_Layer\RentACar_DataTransfer_Layer.csproj" />
+    <ProjectReference Include="..\RentACar_Domain_Layer\RentACar_Domain_Layer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+  </ItemGroup>
+
+</Project>

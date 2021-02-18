@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.WebApi_RentACar.RentaMkDrive", "ASP.WebApi_RentACar.RentaMkDrive\ASP.WebApi_RentACar.RentaMkDrive.csproj", "{233B85A5-358F-4DE8-94F9-C0566C921CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar_DataAccess_Layer", "RentACar_DataAccess_Layer\RentACar_DataAccess_Layer.csproj", "{0B6F6DC1-FB14-4AA8-8502-EA2E3E8DD2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar_Businness_Layer", "RentACar_Businness_Layer\RentACar_Businness_Layer.csproj", "{8135B6DE-149C-4C02-9641-852D5CD66E2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar_DataTransfer_Layer", "RentACar_DataTransfer_Layer\RentACar_DataTransfer_Layer.csproj", "{2A843BBB-D41E-4C77-8203-42AA24D2F910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar_Domain_Layer", "RentACar_Domain_Layer\RentACar_Domain_Layer.csproj", "{AC9A35C8-38D0-408D-88A1-3B54C4D20445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{233B85A5-358F-4DE8-94F9-C0566C921CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233B85A5-358F-4DE8-94F9-C0566C921CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233B85A5-358F-4DE8-94F9-C0566C921CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233B85A5-358F-4DE8-94F9-C0566C921CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6F6DC1-FB14-4AA8-8502-EA2E3E8DD2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6F6DC1-FB14-4AA8-8502-EA2E3E8DD2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6F6DC1-FB14-4AA8-8502-EA2E3E8DD2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6F6DC1-FB14-4AA8-8502-EA2E3E8DD2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8135B6DE-149C-4C02-9641-852D5CD66E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8135B6DE-149C-4C02-9641-852D5CD66E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8135B6DE-149C-4C02-9641-852D5CD66E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8135B6DE-149C-4C02-9641-852D5CD66E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A843BBB-D41E-4C77-8203-42AA24D2F910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A843BBB-D41E-4C77-8203-42AA24D2F910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A843BBB-D41E-4C77-8203-42AA24D2F910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A843BBB-D41E-4C77-8203-42AA24D2F910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9A35C8-38D0-408D-88A1-3B54C4D20445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9A35C8-38D0-408D-88A1-3B54C4D20445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9A35C8-38D0-408D-88A1-3B54C4D20445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9A35C8-38D0-408D-88A1-3B54C4D20445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FA1ADA-E881-42D3-BAC8-509A33911FEC}
+	EndGlobalSection
+EndGlobal
